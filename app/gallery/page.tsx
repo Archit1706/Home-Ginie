@@ -15,7 +15,7 @@ import White from "../../public/assets/white.jpeg";
 
 const page = () => {
     useEffect(() => {
-        const gallery = document.getElementById("gallery");
+        const gallery: any = document.getElementById("gallery");
 
         window.onmousemove = (e) => {
             const mouseX = e.clientX,

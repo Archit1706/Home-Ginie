@@ -15,7 +15,7 @@ export default function Home() {
     const handleSubmit = () => {
         console.log(formData);
 
-        async function predict(data) {
+        async function predict(data: any) {
             await fetch(
                 "https://usahousepriceprediction.architrathod1.repl.co/predict",
                 // `${process.env.MODEL_END_POINT_API}/predict`,
