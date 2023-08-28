@@ -7,7 +7,9 @@ Live Demo: [Here](https://home-ginie.vercel.app/)
 ## Screenshots
 
 - Home Page
-[Home Page](/screenshots/home.jpg)
+  
+![Home Page](/screenshots/home.jpg)
 
 - Gallery
-[Gallery](/screenshots/gallery.jpg)
+  
+![Gallery](/screenshots/gallery.jpg)
